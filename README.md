@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aruzmustafazada
 - 👀 I’m interested in Product Management
-- 🌱 I’m currently learning UX Research/Analytics & Frontend
+- 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
